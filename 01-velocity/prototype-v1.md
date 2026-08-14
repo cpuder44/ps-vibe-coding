@@ -5,19 +5,19 @@
 ## Scenario
 
 _Which of the four scenarios (or your own, instructor-approved) did you build?_
-
+Retention Engine
 _____
 
 ## Launch path
 
-- [ ] Copy & Customize (start from a scenario starter prompt)
+- [ x] Copy & Customize (start from a scenario starter prompt)
 - [ ] First Screen Method (build only the very first screen the user sees)
 
 ## The build
 
-- **What I built:** _____
-- **Tool used:** Lovable / v0 / Cursor / Bolt / Replit
-- **Shareable link:** _____
+- **What I built:** Compliance Rescue Retention Intelligence-identifies what drives churn rates _____
+- **Tool used:** Lovable
+- **Shareable link:** _https://rescue-retention-hub.lovable.app/____
 
 ## Show & Swap read
 
